@@ -1,5 +1,0 @@
-model,total_recommendations,unique_recommended_movies,top_10_movie_exposure_share,average_popularity_rank
-Popularity,20000,66,0.56485,14.00645
-Content-Based,20000,28,0.90655,1129.91345
-Collaborative Filtering,20000,114,0.2746,89.3939
-Hybrid,20000,112,0.345,103.2571

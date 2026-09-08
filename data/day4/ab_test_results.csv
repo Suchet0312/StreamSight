@@ -1,8 +1,0 @@
-metric,value
-Control success rate,0.046
-Treatment success rate,0.05
-Absolute uplift,0.0040000000000000036
-Relative uplift,0.08695652173913052
-Z-score,0.2958631677069696
-P-value,0.7673345803367371
-Statistically significant at 5%,False

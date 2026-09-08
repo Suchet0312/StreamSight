@@ -1,4 +1,0 @@
-metric,value
-selected_collaborative_weight,0.75
-selected_content_weight,0.25
-verdict,Hybrid does not improve NDCG over collaborative filtering.

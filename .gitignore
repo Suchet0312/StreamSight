@@ -1,0 +1,44 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated data folders
+data/day2/
+data/day3/
+data/day4/
+
+# Large data files
+data/raw/stream_data.csv
+data/raw/simulated_ott_events.csv
+
+# Excluded notebooks
+notebooks/02_sql_analytics.ipynb
+
+# Scripts
+.scripts/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
