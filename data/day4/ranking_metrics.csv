@@ -1,0 +1,7 @@
+metric,value
+Precision@10,0.005
+Recall@10,0.05
+Hit Rate@10,0.05
+MAP@10,0.018712698412698413
+NDCG@10,0.025988857427508835
+Average Genre Diversity,0.23457777777777777

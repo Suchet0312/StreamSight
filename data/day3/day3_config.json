@@ -1,0 +1,24 @@
+{
+    "project": "StreamSight",
+    "day": 3,
+    "random_seed": 42,
+    "positive_rating_threshold": 4.0,
+    "k_values": [
+        5,
+        10,
+        20
+    ],
+    "primary_k": 10,
+    "minimum_train_positive_interactions": 2,
+    "cold_start_max_train_interactions": 1,
+    "content_profile_max_items": 20,
+    "hybrid_candidate_weights": [
+        0.25,
+        0.5,
+        0.75
+    ],
+    "selected_hybrid_collaborative_weight": 0.75,
+    "selected_hybrid_content_weight": 0.25,
+    "best_model_by_primary_ndcg": "Collaborative Filtering",
+    "simulation_disclosure": "Day 2 OTT telemetry is simulated/derived from MovieLens signals and is not real production telemetry."
+}

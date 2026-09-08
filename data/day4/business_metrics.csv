@@ -1,0 +1,9 @@
+metric,value,interpretation
+Recommendation Precision@10,0.005,Share of top-10 recommendations that are relevant
+Recommendation Recall@10,0.05,Share of relevant test items retrieved in top-10
+Hit Rate@10,0.05,Share of users receiving at least one relevant recommendation
+NDCG@10,0.025988857427508835,"Quality of ranking, giving more weight to higher-ranked relevant items"
+Catalog Coverage,0.06541334020087561,Share of the available catalog surfaced by recommendations
+Long-tail Recommendation Rate,0.0,Share of recommendations coming from the long tail
+A/B Absolute Uplift,0.0040000000000000036,Change in top-10 success rate versus popularity baseline
+A/B Relative Uplift,0.08695652173913052,Percentage improvement versus control

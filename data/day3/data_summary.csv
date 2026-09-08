@@ -1,0 +1,7 @@
+metric,value
+rows,1000209
+users,6040
+movies,3706
+min_timestamp,1970-01-01 00:00:00.956703932
+max_timestamp,1970-01-01 00:00:01.046454590
+positive_threshold,4.0

@@ -1,0 +1,16 @@
+checkpoint,status,details
+Recommendation problem,COMPLETE,Rank unseen movies using historical MovieLens interactions.
+Positive interaction definition,COMPLETE,Rating >= 4.0
+Chronological train/test split,COMPLETE,Latest positive interaction held out per eligible user.
+Popularity recommender,COMPLETE,Positive-interaction popularity baseline.
+Content-based recommender,COMPLETE,TF-IDF title + genre representation.
+Collaborative filtering,COMPLETE,Item-item cosine similarity.
+Hybrid recommender,COMPLETE,Content + collaborative; selected CF weight=0.75
+Precision@K,COMPLETE,"Implemented for K=5,10,20."
+Recall@K,COMPLETE,"Implemented for K=5,10,20."
+MAP@K,COMPLETE,"Implemented for K=5,10,20."
+NDCG@K,COMPLETE,"Implemented for K=5,10,20."
+Model comparison,COMPLETE,Popularity vs Content vs CF vs Hybrid.
+Cold-start analysis,COMPLETE,Low-history users identified and fallback strategy documented.
+Popularity-bias analysis,COMPLETE,Catalog coverage and recommendation concentration measured.
+Recommendation examples,COMPLETE,Representative user recommendations exported.
